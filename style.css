@@ -17,13 +17,17 @@
     overflow: hidden;
     justify-content: flex-start;
     align-items: center;
+    font-size: 20px;
+    color: #fff;
+
 }
 
 body {
-    background-color: bisque;
+    /* background: url('./assets/denise-johnson-F3vbFTQ2v-o-unsplash.jpg'); */
+    background-color: #057;
     overflow: hidden;
 }
 
 h1 {
-    color: brown;
+    color: #fff;
 }
